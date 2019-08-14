@@ -65,46 +65,7 @@
          </div>
       </div>
    </div>
-   <!-- Service Boxes -->
-   <section class="section-wrap pb-72 pb-lg-40">
-      <div class="container">
-         <div class="row justify-content-center">
-            <div class="col-lg-7">
-               <div class="title-row">
-                  <h2 class="section-title text-center">
-                     <br><br>                                                      
-                     Do you want to <span class="highlight">generate more traffic</span> to your flying? We know the solution.
-                  </h2>
-               </div>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-lg-6">
-               <div class="feature box-shadow hover-up hover-line">
-                  <h4 class="feature__title">
-                     IVAO
-                     <a href="https://ivao.aero/" target="_blank">
-                  </h4>
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/IVAO_Logo.png/768px-IVAO_Logo.png" width="200" height="100">
-                  <p class="feature__text">The International Virtual Aviation Organisation, IVAO for short, was founded in 1998 to provide an online platform for flight simulation enthusiasts to enjoy their ...</p></a>
-               </div>
-            </div>
-            <div class="col-lg-6">
-               <div class="feature box-shadow hover-up hover-line">
-                  <h4 class="feature__title">
-                     VATSIM
-                     <a href="https://www.vatsim.net/" target="_blank">
-                  </h4>
-                  <img src="https://www.avsim.com/files/forum/monthly_09_2018/vatsim-official-2010_0480_r.png.e232403e2c49f3473ce4842081fa0df9.png" height="200">
-                  <br><br><br>
-                  <p class="feature__text">VATSIM is the Virtual Air Traffic Simulation network, connecting people from around the world flying online or acting as virtual Air Traffic Controllers.</p>
-               </div>
-               </a>
-            </div>
-         </div>
-      </div>
-</div>
-</section> <!-- end service boxes -->
+   
 <!-- Promo Section -->
 <section class="section-wrap">
    <!-- <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -244,9 +205,9 @@
           <div class="row justify-content-center">
             <div class="col-lg-8">
               <div class="moneyback">
-                <img src="img/moneyback/moneyback_badge.png" srcset="img/moneyback/moneyback_badge.png 1x, img/moneyback/moneyback_badge@2x.png 2x" class="moneyback__img" alt="">
-                <h2 class="moneyback__title"><span class="highlight">100%</span> Moneyback Guarantee</h2>
-                <p class="moneyback__text">Buy with confidence: if you are not 100% satisfied with Margin and our complete service, we offer 30-day money back guarantee without any questions!</p>
+                <img src="img/satisfaction-guarantee-2109235_960_720.png" srcset="img/satisfaction-guarantee-2109235_960_720.png 1x, img/satisfaction-guarantee-2109235_960_720.png@2x.png 2x" class="satisfaction__img" alt="" width="100" height="150">
+                <h2 class="moneyback__title"><span class="highlight">100%</span> Pilot Satisfaction</h2>
+                <p class="moneyback__text"> If you join in JAL-VA, The JAL-VA assures u to get 100% satisfaction of flying and gaining flying hours! </p>
               </div>
             </div>
           </div>
@@ -256,30 +217,162 @@
 
 
 <!-- end testimonials -->
+<br>
+<br>
+<br><br><br>
 <!-- From Blog -->
-<section class="section-wrap">
-   <div class="container">
-      <div class="title-row title-row--boxed text-center">
-         <h2 class="section-title">Latest News</h2>
-         <h4>At the moment, JAL Virtual operates an all Boeing fleet.</h4>
-         <ul>
-            <h5>
-               <ul>
-                  <li>Boeing 737-800 Operated By JAL Express</li>
-                  <li>Boeing 747-200</li>
-                  <li>Boeing 777-200ER</li>
-                  <li>Boeing 787-9</li>
-               </ul>
-      </div>
-      <div class="row card-row">
-      </ul></h5>
-      </div>
-      <div class="row card-row">
+<div class="container">
+          <div class="title-row title-row--boxed text-center">
+            <h2 class="section-title">Aircraft Fleet</h2>
+            <p class="subtitle">Here are the best aircrafts which deals with JAL to give more profit!.</p>
+          </div>
+          <div class="row">
+
+            <div class="col-sm-4 col-md-4">
+                <div class="service-box">
+                <div class="text-center"> <span class="highlight"> <strong>Boeing 777-300ER</strong> </span></div>
+        <img src="img/Boeing 777-300ER_aircraft_003.jpg" style="margin-left:20px" alt="">
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <div class="col-sm-4 col-md-4">
+                <div class="service-box">
+                <div class="text-center"><span class="highlight"> Boeing 777-200</span></div>
+        <img src="img/Boeing777-200_aircraft_002.jpg" style="margin-left:20px" alt="">
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <div class="col-sm-4 col-md-4">
+                <div class="service-box">
+                <div class="text-center"><span class="highlight">Boeing 767-300 </span></div>
+        <img src="img/Boeing 767-300_aircraft_001.jpg" style="margin-left:20px" alt="">
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br><br>
+            <div class="col-sm-4 col-md-4">
+                <div class="service-box">
+                <div class="text-center"><span class="highlight">Boeing 787</span></div>
+        <img src="https://flyawaysimulation.com/media/images1/images/japan-airlines-boeing-787-8-V2-fsx1.jpg" style="margin-left:20px" alt="">
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <div class="col-sm-4 col-md-4">
+                <div class="service-box">
+                <div class="text-center"><span class="highlight">Boeing 737</span></div>
+        <img src="img/Boeing 737-800_aircraft_004.jpg" style="margin-left:20px" width="650" alt="">
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="col-sm-4 col-md-4">
+                <div class="service-box">
+                <div class="text-center"><span class="highlight">Embraer</span></div>
+        <img src="https://press.jal.co.jp/en/items/uploads/minion.jpg" style="margin-left:30px" width="auto" alt="">
+                </div>
+              </div>
+<!-- end from blog -->
+
+
+            <!-- end owl-carousel -->
+         </div>
       </div>
    </div>
 </section>
-<!-- end from blog -->
-
+<!-- Service Boxes -->
+   <section class="section-wrap pb-72 pb-lg-40">
+      <div class="container">
+         <div class="row justify-content-center">
+            <div class="col-lg-7">
+               <div class="title-row">
+                  <h2 class="section-title text-center">
+                     <br><br>                                                      
+                     Do you want to <span class="highlight">generate more traffic</span> to your flying? We know the solution.
+                  </h2>
+               </div>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-6">
+               <div class="feature box-shadow hover-up hover-line">
+                  <h4 class="feature__title">
+                     IVAO
+                     <a href="https://ivao.aero/" target="_blank">
+                  </h4>
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/IVAO_Logo.png/768px-IVAO_Logo.png" width="200" height="100">
+                  <p class="feature__text">The International Virtual Aviation Organisation, IVAO for short, was founded in 1998 to provide an online platform for flight simulation enthusiasts to enjoy their ...</p></a>
+               </div>
+            </div>
+            <div class="col-lg-6">
+               <div class="feature box-shadow hover-up hover-line">
+                  <h4 class="feature__title">
+                     VATSIM
+                     <a href="https://www.vatsim.net/" target="_blank">
+                  </h4>
+                  <img src="https://www.avsim.com/files/forum/monthly_09_2018/vatsim-official-2010_0480_r.png.e232403e2c49f3473ce4842081fa0df9.png" height="200">
+                  <br><br><br>
+                  <p class="feature__text">VATSIM is the Virtual Air Traffic Simulation network, connecting people from around the world flying online or acting as virtual Air Traffic Controllers.</p>
+               </div>
+               </a>
+            </div>
+         </div>
+      </div>
+</div>
+</section> <!-- end service boxes -->
+<!-- Partners -->
+<section class="section-wrap section-wrap--pb-large bg-gradient" style="background-image: url(img/partners/map.png);">
+   <div class="container">
+      <div class="title-row title-row--boxed text-center">
+         <h2 class="section-title">Join thousands of Pilots  who tried JAL virtual airline</h2>
+         <p class="subtitle">An idea that takes the parts of a structure and turns whole system.</p>
+      </div>
+      <div class="row justify-content-center text-center">
+         <div class="col-lg-10">
+            <div class="row pb-48">
+              <div class="col-md col-sm-3">
+                  <img src="https://s3-eu-west-2.amazonaws.com/assets.fsxinsider.com/app/uploads/2015/02/27215824/FSX_SteamEd_Logo.png" alt="">
+               </div>
+               <div class="col-md col-sm-3">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/X-Plane_11_logo.svg/1280px-X-Plane_11_logo.svg.png" alt="">
+               </div>
+               <div class="col-md col-sm-3">
+                  <img src="http://prepar3d.com/wp-content/uploads/2014/10/11Logo_1600.png" alt="">
+               </div>
+               
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- end partners -->
+<!-- CTA -->
+<div class="container offset-top-152 pt-sm-48">
+   <div class="row justify-content-center">
+      <div class="col-lg-10">
+         <div class="call-to-action box-shadow-large text-center">
+            <div class="call-to-action__container">
+               <h3 class="call-to-action__title">
+                  Take your flying to the next level
+               </h3>
+               <a href="#" class="btn btn--lg btn--color">
+               <span>Let’s Fly</span>
+               </a>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- end cta -->
 <!-- Testimonials -->
 <section class="section-wrap bg-color">
    <div class="container">
@@ -324,52 +417,7 @@
                   </div>
                </div>
             </div>
-            <!-- end owl-carousel -->
-         </div>
-      </div>
-   </div>
-</section>
-<!-- Partners -->
-<section class="section-wrap section-wrap--pb-large bg-gradient" style="background-image: url(img/partners/map.png);">
-   <div class="container">
-      <div class="title-row title-row--boxed text-center">
-         <h2 class="section-title">Join thousands of Pilots  who tried JAL virtual airline</h2>
-         <p class="subtitle">An idea that takes the parts of a structure and turns whole system.</p>
-      </div>
-      <div class="row justify-content-center text-center">
-         <div class="col-lg-10">
-            <div class="row pb-48">
-               <div class="col-md col-sm-3">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/X-Plane_11_logo.svg/1280px-X-Plane_11_logo.svg.png" alt="">
-               </div>
-               <div class="col-md col-sm-3">
-                  <img src="img/p3d.jpg" alt="">
-               </div>
-               <div class="col-md col-sm-3">
-                  <img src="img/microsoft flight simulator.jpg" alt="">
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-<!-- end partners -->
-<!-- CTA -->
-<div class="container offset-top-152 pt-sm-48">
-   <div class="row justify-content-center">
-      <div class="col-lg-10">
-         <div class="call-to-action box-shadow-large text-center">
-            <div class="call-to-action__container">
-               <h3 class="call-to-action__title">
-                  Take your flying to the next level
-               </h3>
-               <a href="#" class="btn btn--lg btn--color">
-               <span>Let’s Fly</span>
-               </a>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-<!-- end cta -->
+            <!-- end Testimonials --
+
+
 <?php include ('footer.php'); ?>
