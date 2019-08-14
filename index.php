@@ -152,7 +152,7 @@
          <div class="row">
             <div class="col-sm-6 text-center">
               <br><br><br><br><br><br><br>
-               <h2>A trusted software suite!<small>We use only the best software on the market</small></h2>
+               <h2><span class="highlight"> A trusted software suite!</span><br><small>We use only the best software on the market</small></h2>
                <p>We are using some of the best software in the industry. TFDI's state of the art ACARS system makes flight tracking a breeze!</p>
             </div>
 
@@ -216,7 +216,7 @@
       <br><br>
 
 
-<!-- end testimonials -->
+
 <br>
 <br>
 <br><br><br>
@@ -355,25 +355,28 @@
    </div>
 </section>
 <!-- end partners -->
-<!-- CTA -->
-<div class="container offset-top-152 pt-sm-48">
-   <div class="row justify-content-center">
-      <div class="col-lg-10">
-         <div class="call-to-action box-shadow-large text-center">
-            <div class="call-to-action__container">
-               <h3 class="call-to-action__title">
-                  Take your flying to the next level
-               </h3>
-               <a href="#" class="btn btn--lg btn--color">
-               <span>Let’s Fly</span>
-               </a>
+
+            <!-- CTA -->
+            <div class="container offset-top-152 pt-sm-48">
+              <div class="row justify-content-center">
+                <div class="col-lg-10">
+                  <div class="call-to-action box-shadow-large text-center">
+                    <div class="call-to-action__container">
+                      <h3 class="call-to-action__title">
+                        Take your flying to the next level
+                      </h3>
+                      <a href="#" class="btn btn--lg btn--color">
+                        <span>Let’s Fly</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-         </div>
-      </div>
-   </div>
-</div>
-<!-- end cta -->
-<!-- Testimonials -->
+            <!-- end cta -->
+
+
+            <!-- Testimonials -->
 <section class="section-wrap bg-color">
    <div class="container">
       <div class="row justify-content-center">
@@ -417,7 +420,11 @@
                   </div>
                </div>
             </div>
-            <!-- end Testimonials --
+            <!-- end testimonials -->
+
+
+            
+
 
 
 <?php include ('footer.php'); ?>
