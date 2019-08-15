@@ -27,11 +27,9 @@
                <ul>
                 <li>
                   <a href="index.html">Home</a>
-              <ul>
                 <li><a href="#">About</a></li>
-
-
                 <li><a href="#">Contact</a></li>
+                <li><a href="#">Staff</a></li>
               </ul>
             </div>
           </div>

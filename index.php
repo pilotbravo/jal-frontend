@@ -278,7 +278,7 @@
             <div class="col-sm-4 col-md-4">
                 <div class="service-box">
                 <div class="text-center"><span class="highlight">Embraer</span></div>
-        <img src="https://press.jal.co.jp/en/items/uploads/minion.jpg" style="margin-left:30px" width="auto" alt="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMO75bsOEsbdyC_QmHV7RmpKNwn6n_H25NRv8_oDlAOdpORK9m" style="margin-left:30px" width="500" alt="">
                 </div>
               </div>
 <!-- end from blog -->
