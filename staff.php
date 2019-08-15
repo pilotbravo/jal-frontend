@@ -9,7 +9,7 @@
           <div class="page-title__holder">
             <h1 class="page-title__title">Staff</h1>
             <div class="alert alert-danger">
-              <strong>Need to Contact? </strong> Contact the staff &amp; General Enquiries <a class="alert-link" href="http://jalvirtual.org/en/index.php/contact"> here </a> .</div></p>
+              <strong>Need to Contact? </strong> Contact the staff &amp; General Enquiries <a href="contact.php"> here </a> .</div></p>
           </div>
         </div>
       </section> <!-- end page title -->
