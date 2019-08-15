@@ -230,10 +230,10 @@
 
             <div class="col-sm-4 col-md-4">
                 <div class="service-box">
-                <div class="text-center"> <span class="highlight"> <strong>Boeing 777-300ER</strong> </span></div>
-        <img src="img/Boeing 777-300ER_aircraft_003.jpg" style="margin-left:20px" alt="">
+                <div class="text-center"><span class="highlight"> Boeing 777-300 ER</span></div>
+        <img src="img/Boeing777-200_aircraft_002.jpg" style="margin-left:20px" alt="">
                 </div>
-            </div>
+              </div>
             <br>
             <br>
             <br>
@@ -252,10 +252,7 @@
         <img src="img/Boeing 767-300_aircraft_001.jpg" style="margin-left:20px" alt="">
                 </div>
             </div>
-            <br>
-            <br>
-            <br>
-            <br><br>
+            
             <div class="col-sm-4 col-md-4">
                 <div class="service-box">
                 <div class="text-center"><span class="highlight">Boeing 787</span></div>
@@ -268,7 +265,7 @@
             <div class="col-sm-4 col-md-4">
                 <div class="service-box">
                 <div class="text-center"><span class="highlight">Boeing 737</span></div>
-        <img src="img/Boeing 737-800_aircraft_004.jpg" style="margin-left:20px" width="650" alt="">
+        <img src="img/b737.jpg" style="margin-left:20px" width="650" alt="">
                 </div>
             </div>
             <br>

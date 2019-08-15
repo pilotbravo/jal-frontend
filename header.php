@@ -92,8 +92,11 @@ body, html {
                 <li class="active">
                   <a href="index.php">Home</a>
                 </li>
-                <li class="nav__menu">
+                <ul class="nav__menu">
+                  <li class="active">
                     <li><a href="about.php">About</a></li>
+                  </ul>
+                </li>
                     
                     <ul class="nav__menu">
                 <li class="active">
@@ -113,6 +116,7 @@ body, html {
                 <span class="nav__btn-text">Crew Area</span>
               </a>
             </div>
+
 
           </div> <!-- end flex-parent -->
         </div> <!-- end container -->
