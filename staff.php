@@ -142,7 +142,7 @@
                   <a href="single-post.html">
                     <img src="https://shmector.com/_ph/4/209265408.png" class="entry__img" alt="">
                   </a>
-                  <span class="label label-success"><b>Jamie Clarke - Human Resouces Manager?</b> </span>
+                  <span class="label label-success"><b>Jamie Clarke - Human Resouces Manager</b> </span>
                   <div class="entry__body card__body">                    
                     <h4 class="entry__title">
                       <a href="single-post.html">Contact for:</a>

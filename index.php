@@ -420,6 +420,7 @@
                   </div>
                </div>
             </div>
+          </section>
             <!-- end testimonials -->
 
 

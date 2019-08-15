@@ -36,7 +36,7 @@
                     <ul class="benefits__list">
                       <li class="benefits__item">
                         <i class="ui-check benefits__item-icon"></i>
-                        <span class="benefits__item-title">Do you own Microsoft Flight Simulator 2004, X or X-Plane?</span>
+                        <span class="benefits__item-title">Do you own Microsoft Flight Simulator 2004, X-Plane?</span>
                       </li>
                     </ul>
                   </div>
