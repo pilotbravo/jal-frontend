@@ -234,9 +234,7 @@
         <img src="img/Boeing 777-300ER_aircraft_003.jpg" style="margin-left:20px" alt="">
                 </div>
               </div>
-            <br>
-            <br>
-            <br>
+            
             <div class="col-sm-4 col-md-4">
                 <div class="service-box">
                 <div class="text-center"><span class="highlight"> Boeing 777-200</span></div>
@@ -256,7 +254,7 @@
             <div class="col-sm-4 col-md-4">
                 <div class="service-box">
                 <div class="text-center"><span class="highlight">Boeing 787</span></div>
-        <img src="https://flyawaysimulation.com/media/images1/images/japan-airlines-boeing-787-8-V2-fsx1.jpg" style="margin-left:20px" alt="">
+        <img src="https://cdn.planespotters.net/photo/947000/280/ja844j-japan-airlines-boeing-787-8-dreamliner_PlanespottersNet_947626_014bdf3772.jpg"  style="margin-left:20px" alt="">
                 </div>
             </div>
             <br>
@@ -265,7 +263,7 @@
             <div class="col-sm-4 col-md-4">
                 <div class="service-box">
                 <div class="text-center"><span class="highlight">Boeing 737</span></div>
-        <img src="img/b737.jpg" style="margin-left:20px" width="650" alt="">
+        <img src="https://cdn.planespotters.net/photo/939000/280/ja336j-japan-airlines-boeing-737-846wl_PlanespottersNet_939365_1d2fd294e1.jpg" style="margin-left:20px"  alt="">
                 </div>
             </div>
             <br>
@@ -275,7 +273,7 @@
             <div class="col-sm-4 col-md-4">
                 <div class="service-box">
                 <div class="text-center"><span class="highlight">Embraer</span></div>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMO75bsOEsbdyC_QmHV7RmpKNwn6n_H25NRv8_oDlAOdpORK9m" style="margin-left:30px" width="500" alt="">
+        <img src="https://cdn.planespotters.net/photo/973000/original/ja252j-j-air-embraer-erj-190std-erj-190-100_PlanespottersNet_973194_99c3500b80.jpg"  style="margin-left:30px">
                 </div>
               </div>
 <!-- end from blog -->
