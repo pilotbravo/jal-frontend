@@ -9,7 +9,7 @@
             <div class="widget widget-about-us">
               <!-- Logo -->
               <a href="index.html" class="logo-container flex-child">
-                <img class="logo" src="img/logo.png" srcset="http://jalvirtual.com/en/lib/skins/jal2014/images/logo.png" alt="logo">
+                <img src="img/jalv-logo.png" alt="logo">
               </a>
               <br><br>
               <div class="socials">

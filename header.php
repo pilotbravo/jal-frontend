@@ -74,7 +74,7 @@ body, html {
             <div class="nav__header">
               <!-- Logo -->
               <a href="index.php" class="logo-container flex-child">
-                <img src="http://jalvirtual.com/en/lib/skins/jal2014/images/logo.png"  alt="JAL_LOGO" style="width: auto; height: 40px;">
+                <img src="img/jalv-logo.png"  alt="JAL_LOGO" style="width: auto; height: 40px;">
               </a>
 
               <!-- Mobile toggle -->
@@ -110,6 +110,11 @@ body, html {
                 </li>
               </ul> <!-- end menu -->
             </nav> <!-- end nav-wrap -->
+
+
+
+
+            
 
             <div class="nav__btn-holder nav--align-right">
               <a href="<?php echo SITE_URL; ?>/index.php/login" class="btn nav__btn">
